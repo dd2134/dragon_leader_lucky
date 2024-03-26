@@ -1,6 +1,6 @@
 {
   "name": "dragon_leader_lucky",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/dd2134/dragon_leader_lucky#readme",
   "dependencies": {
+    "dragon_awakening_of_insects": "^1.0.1",
     "dragon_lucky_words": "^1.0.3",
+    "dragon_number_guessing": "^1.0.3",
+    "dragon_rain": "^1.0.6",
+    "dragon_spring_equinox": "^1.0.0",
     "jquery": "^3.7.1"
   }
 }
